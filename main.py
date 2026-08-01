@@ -184,7 +184,7 @@ def main():
 
     # ⚠️ ជំនួស TOKEN របស់អ្នកដែលបានមកពី @BotFather
 
-    TOKEN = "8832353057:AAGvizKZsnYGDV3x3fXz2I5Mt21W-9qQPos"
+    TOKEN = "8605202813:AAHwtO5baq74A_6cd_Efk975lG5XOhyB8G4"
 
 
 
